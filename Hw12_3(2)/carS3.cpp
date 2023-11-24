@@ -22,3 +22,8 @@ void Car::klaxon(int n) {
 		std::cout << "  no horn \n";
 	}
 }
+
+void Car::howmanyhandle(int n) {
+	n = handle;
+	std::cout << handle;
+}
