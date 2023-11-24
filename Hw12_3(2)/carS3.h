@@ -16,7 +16,7 @@ protected:
 	void speedDown(float);
 
 	int handle;
-	void howmanyhandle(int hand);
+	void howmanyhandle(int);
 	
 
 	
